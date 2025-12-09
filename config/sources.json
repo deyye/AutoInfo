@@ -1,0 +1,20 @@
+[
+  {
+    "name": "36Kr 科技",
+    "category": "Tech",
+    "type": "rss",
+    "url": "https://36kr.com/feed"
+  },
+  {
+    "name": "Hacker News",
+    "category": "Tech",
+    "type": "rss",
+    "url": "https://news.ycombinator.com/rss"
+  },
+  {
+    "name": "OpenAI Blog",
+    "category": "AI",
+    "type": "direct_url",
+    "url": "https://openai.com/news/"
+  }
+]

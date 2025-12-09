@@ -1,5 +1,5 @@
 __pycache__/
 output/
-config/
 .vscode/
 .env
+__init__.py
